@@ -1,1 +1,2 @@
-# Netflix_Analysis
+# Netflix Movies and TV shows data analysis using SQL
+[Netflix logo]()
